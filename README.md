@@ -21,28 +21,28 @@ And it takes some parameters:
 
 
 ```python
-80;146;160;94%;92%;88.5%
+105;86;240;92%;88%
 ———
 # Left and right side bearing
 ```
 
 
 ```python
-80;146;160;94%;92%;88.5%
+105;86;240;92%;88%
    ————
    # Stem width
 ```
 
 
 ```python
-80;146;160;94%;92%;88.5%
+105;86;240;92%;88%
        ————
        # Size of counter for one bowl glyphs
 ```
 
 
 ```python
-80;146;160;94%;92%;88.5%
+105;86;240;92%;88%
            ———
            # Size of counter for 2 bowl glyphs
            # *Optional*
@@ -50,7 +50,7 @@ And it takes some parameters:
 
 
 ```python
-80;146;160;94%;92%;88.5%
+105;86;240;92%;88%
                ———
                # Size of counter for 3 bowl glyphs
                # *Optional*
