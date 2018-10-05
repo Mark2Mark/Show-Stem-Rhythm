@@ -27,34 +27,34 @@ And it takes some parameters:
 ```
 
 
-```
+```python
 80;146;160;94%;92%;88.5%
    ————
-   Stem width
+   # Stem width
 ```
 
 
-```
+```python
 80;146;160;94%;92%;88.5%
        ————
-       Size of counter for one bowl glyphs
+       # Size of counter for one bowl glyphs
 ```
 
 
-```
+```python
 80;146;160;94%;92%;88.5%
            ———
-           Size of counter for 2 bowl glyphs
-           *Optional*
+           # Size of counter for 2 bowl glyphs
+           # *Optional*
 ```
 
 
-```
+```python
 80;146;160;94%;92%;88.5%
                ———
-               Size of counter for 3 bowl glyphs
-               *Optional*
-               4 counter glyphs: and so forth …
+               # Size of counter for 3 bowl glyphs
+               # *Optional*
+               # 4 counter glyphs: and so forth …
 ```
 
 
