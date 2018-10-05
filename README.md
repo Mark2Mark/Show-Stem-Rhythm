@@ -20,10 +20,10 @@ And it takes some parameters:
 
 
 
-```
+```python
 80;146;160;94%;92%;88.5%
 ———
-Left and right side bearing
+# Left and right side bearing
 ```
 
 
