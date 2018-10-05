@@ -10,6 +10,11 @@
 
 ### Set up:
 
+Add a Custom Parameter to each master of your font.\n
+It goes by the name `StemRhythm`\n
+And it takes some parameters:\n\n
+
+
 ```
 80;146;160;94%;92%;88.5%
 ———
