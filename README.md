@@ -57,6 +57,10 @@ And it takes some parameters:
                # 4 counter glyphs: and so forth …
 ```
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mark2Mark/show-stem-rhythm/master/Stem%20Rhythm%20-%20Mark%20Fromberg%2002.png" alt="Mark Zones" height="">
+</p>
+
 
 --- 
 If you like it, feel free to:
